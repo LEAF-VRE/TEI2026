@@ -11,8 +11,8 @@
     "documentNotes": "",
     "documentLinks": "",
     "inputs": [
-        "https://raw.githubusercontent.com/LEAF-VRE/TEI2026/refs/heads/main/Atwood-Intro.xml",
-        "https://raw.githubusercontent.com/LEAF-VRE/TEI2026/refs/heads/main/index.xml"
+        "https://raw.githubusercontent.com/djakacki/TEI2026_dkj/refs/heads/main/Atwood-Intro.xml",
+        "https://raw.githubusercontent.com/djakacki/TEI2026_dkj/refs/heads/main/index.xml"
     ],
     "curation": {
         "markup": [
