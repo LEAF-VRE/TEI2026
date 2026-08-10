@@ -36,7 +36,7 @@
 	</teiHeader>
 	<text>
 		<body>
-			<div>
+			<div type="essay">
 				<!--<pb n="1"/>
 				<pb n="2"/>-->
 				<head>Introduction</head>
