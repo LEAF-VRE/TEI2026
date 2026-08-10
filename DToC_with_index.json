@@ -15,11 +15,7 @@
         "https://raw.githubusercontent.com/djakacki/TEI2026_dkj/refs/heads/main/index.xml"
     ],
     "curation": {
-        "markup": [
-            {
-                "xpath": "//persName[@key='Atwood, Margaret, 1939-....']",
-                "label": "Margaret Atwood"
-            },
+        "markup": [            
             {
                 "xpath": "//persName",
                 "label": "People "
