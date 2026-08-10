@@ -2,7 +2,7 @@
 Workshop materials used for TEI2026 LEAF-Writer Workshop
 
 ## HELPFUL Links
-* [Workshop slides] (https://bit.ly/LWC-TEI2026)
+* [Workshop slides](https://bit.ly/LWC-TEI2026)
 * [NERVE](https://nerve.lincsproject.ca/en)
 * [LEAF-Writer Commons](https://leaf-writer.leaf-vre.org/)
 * [Dynamic Table of Contexts](https://dtoc.leaf-vre.org/)
