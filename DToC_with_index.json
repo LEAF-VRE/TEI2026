@@ -17,7 +17,7 @@
     "curation": {
         "markup": [
             {
-                "xpath": "//persName[@key='Atwood, Margaret 1939-']",
+                "xpath": "//persName[@key='Atwood, Margaret, 1939-....']",
                 "label": "Margaret Atwood"
             },
             {
