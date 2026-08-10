@@ -15,10 +15,9 @@ We will concentrate on the editorial workflow (transformation of existing digita
 By the end of the workshop participants should have developed skills to make their digital edition processes more efficient, and where tools can (and cannot) aid them in undertaking their own projects.
 
 ## What You'll Need:
-You will need a (free) [GitHub](https://github.com/) account and download the (free) [GitHub Desktop](https://desktop.github.com/download/)
-We will use both for sharing and publishing files. 
+You will need a (free) [GitHub](https://github.com/) account. 
 
-## Document We Will Use:
+## Document Used:
 
 * Atwood, Margaret. 1989. _Women Writers at Work : The Paris Review Interviews._ Edited by George Plimpton. New York: Modern Library.
 
