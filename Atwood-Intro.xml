@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/23-refine-leaf-css/CSS/leaf.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="https://purl.oclc.org/dsdl/schematron"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/23-refine-leaf-css/CSS/leaf.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -6,19 +10,19 @@
 				<author>Margaret Atwood</author>				
 			</titleStmt>
 			<publicationStmt>
-				<distributor>Linked Editing Academic Framework</distributor>				
+				<distributor>LInked Editing Academic Framework</distributor>				
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
 					<title>Women Writers at Work: The Paris Review Interviews.</title> 
 					<note>The interviews in this collection are selected from Writers at work, series 1-8, published by Viking Penguin Inc.</note>
-					<publisher>George Plimpton</publisher>
-					<distributor>Penguin Books US</distributor>
-					<date type="release">1989</date>
-					<availability>
-						<p>Free eBook from the Internet Archive</p>
-					</availability>
-					<ptr target="https://archive.org/details/womenwritersatwo00geor"/>
+				<publisher>George Plimpton</publisher>
+				<distributor>Penguin Books US</distributor>
+				<date type="release">1989</date>
+				<availability>
+					<p>Free eBook from the Internet Archive</p>
+				</availability>
+				<ptr target="https://archive.org/details/womenwritersatwo00geor"/>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -33,8 +37,8 @@
 	<text>
 		<body>
 			<div type="essay">
-				
-				
+				<!--<pb n="1"/>
+				<pb n="2"/>-->
 				<head>Introduction</head>
 				<p> This new volume of the Paris Review’s highly praised and praiseworthy series of
 					interviews with writers is a departure from the norm. Previous collections have
@@ -43,8 +47,8 @@
 					and Nadine Gordimer, Marianne Moore and Rebecca West, Isak Dinesen and Lillian
 					Hellman, Mary McCarthy and Katherine Anne Porter, over what, in some cases,
 					would doubtless be their dead bodies, merely because they share a double-X
-					chronosome, is not due to a sudden mental aberration. Rather it has been the
-					result of readers' requests. Why not a gathering of women writers? the editor
+					chromosome, is not due to a sudden mental aberration. Rather it has been the
+					result of readers' requests. Why not a gathering of women writers? the editors
 					were asked. Well, why not? Which is not quite the same thing as why. </p>
 				<p> To some the answer would seem self-evident: women writers belong together
 					because they are different from men, and the writing they do is different as
@@ -54,17 +58,17 @@
 					many men, he is a posturing oaf they'd like to punch in the nose. For many men,
 					The Ginger Man's Sebastian Dangerfield is an energy-packed rebel; for many
 					women, he is an immature and tiresome wife-beater. Paradise Lost reads
-					differently  when viewed by the daughters of Eve, and with Milton's
+					differently <!--<pb n="3"/>--> when viewed by the daughters of Eve, and with Milton's
 					browbeaten secretarial daughters in mind; and so on down through the canon. </p>
-				<p> Such gender-polarized analyses can reach beyond subject- matter and point of
+				<p> Such gender-polarized analyses can reach beyond subject-matter and point of
 					view to encompass matters of structure and style: are women really more
 					subjective? do their novels really end with questions? Especially in this age of
-					semiotics, gender- linked analysis may seek to explore attitudes towards
+					semiotics, gender-linked analysis may seek to explore attitudes towards
 					language itself. Is there a distinct female écriture? Does the mother-tongue
 					really belong to mothers, or is it yet one more male-shaped institution bent,
 					like foot-binding, on the deformation and hobbling of women? I have had it
 					suggested to me, in all seriousness, that women ought not to write at all, since
-					to do so is to dip one's hand, like Shakespeare's dyer, into a medium both
+					to do so is to dip one's hand, like Shakespeares dyer, into a medium both
 					sullied and sullying. (This suggestion was not made telepathically, but in
 					spoken sentences; since, for polemicists as for writers themselves, the
 					alternative to language is silence.) </p>
@@ -84,14 +88,15 @@
 					collective uneasiness. No woman writer wants to be overlooked and undervalued
 					for being a woman, but few, it seems, wish to be defined solely by gender, or
 					constrained by loyalties to it alone—an attitude which may puzzle, hurt or
-					enrage those whose political priorities cause them to view writing as a  tool, a means towards an end, rather than as a Muse who will desert
+					enrage those whose political priorities cause them to view writing as a <!--<pb
+						n="4"/>--> tool, a means towards an end, rather than as a Muse who will desert
 					you if you break trust. In the interview which begins this collection. Dorothy
 					Parker articles the dilemma: </p>
 				<p> I'm a feminist, and God knows I'm loyal to my sex, and you must remember that
 					from my very early days, when this city was scarcely safe from buffaloes, I was
 					in the struggle for equal rights for women. But when we paraded through the
 					catcalls of men and when we chained ourselves to lamp posts to try to get out
-					equality—dear child, we didn't foresee those female writers. (Pp. 114-115) </q>
+					equality—dear child, we didn't foresee those female writers. (pp. 114-115) </p>
 				<p> Male writers may suffer grains on their single-minded dedication to their art
 					for reasons of class or race or nationality, but so far no male writer is likely
 					to be asked to sit on a panel addressing itself to the special problems of the
@@ -109,9 +114,9 @@
 					being a woman writer?", she makes a virtue of necessity: </p>
 				<p> Advantages! Too many to enumerate, probably. Since, being a woman. I can't be
 					taken altogether seriously by the sort of male critics who rank writers 1, 2. 3
-                    in the public press. I am free, I suppose, to do as I like. (p. 382) </p>
-                
-                <p> Joan Didion is asked the same question in its negative form— "disadvantages"
+					in the public press. I am free, I suppose, to do as I like. (P. 382) </p>
+				<!--<pb n="5"/>-->
+				<p> Joan Didion is asked the same question in its negative form— "disadvantages"
 					instead of "advantages"—and also focuses on social differences, social
 					acceptance and role: </p>
 				<p> When I was starting to write—in the late fifties, early sixties—there was a kind
@@ -124,8 +129,8 @@
 					even by their publishers, as sensitive. I'm not sure this is so true anymore,
 					but it certainly was at the time, and I didn't much like it. I dealt with it the
 					same way I deal with everything. I just tended my own garden, didn't pay much
-                    attention, be- haved—I suppose—deviously. (pp. 324-325) </p>
-                <p> I think of Marianne Moore, living decorously with her mother and her "dark"
+					attention, be- haved—I suppose—deviously. (Pp. 324-325) </p>
+				<p> I think of Marianne Moore, living decorously with her mother and her "dark"
 					furniture, her height of social rebellion the courageous ignoring of the need
 					for chaperones at Village literary parties, and wonder how many male writers
 					could have lived such a circumscribed life and survived the image. </p>
@@ -138,14 +143,14 @@
 					p. 239.) Cognate with this view of writing as a male preserve has been the image
 					of women writers as lightweight puffballs, neurotic freaks suffering from what
 					Edna O'Brien calls "a double dose of masochism: the masochisim of the woman and
-					that of the artist" (p. 342), or, if approved of, as  honorary men.
+					that of the artist" (p. 342), or, if approved of, as <!--<pb n="6"/>--> honorary men.
 					Femininity and excellence, it seemed, were mutually exclusive. Thus Katherine
 					Anne Porter: </p>
 				<p> If there is such a thing as a man's mind and a woman's mind—and I'm sure there
 					is—it isn't what most critics mean when they talk about the two. If I show
 					wisdom, they say I have a masculine mind. If I am silly and irrelevant—and
-                    Edmund Wilson says I often am—why then they say I have a typically feminine
-                    mind!... But I haven't ever found it unnatural to be a woman. (p. 65) </q>
+					Edmund Wilson says I often am—why then they say I have a typically feminine
+					mind!... But I haven't ever found it unnatural to be a woman. (P. 65) </p>
 				<p> The interviewer responds with a question that is asked, in one form or another,
 					not only of almost every woman included in this book, but of almost every woman
 					writer ever interviewed: "But haven't you found that being a woman presented to
@@ -164,18 +169,18 @@
 					else? There's Eudora Welty, who's certainly not a "Woman Winter," though she's
 					become one lately. </p>
 				<p> INTERVIEWER: What is it that happens to make this change? </p>
-				<p> MCCARTHY: I think they become interested in décor. You  notice the
+				<p> MCCARTHY: I think they become interested in décor. You <!--<pb n="7"/>--> notice the
 					change in Elizabeth Bowen. Her early work is much more masculine. Her later work
 					has much more drapery in it . . . I was going to write a piece at some point
 					about this called "Sense and Sensibility," dividing women writers into these
-					two. I am for the ones who represent sense ... (Pp. 189-190) </p>
+					two. I am for the ones who represent sense ... (pp. 189-190) </p>
 				<p> Cynthia Ozick goes much farther; she refuses such dichotomies altogether: </p>
 				<p> INTERVIEWER: you have written about the writer as being genderless and living in
 					the world of "as if" rather than being restrained by her . . . </p>
 				<p> OZICK: Parochial temporary commitments. . . . A writer is someone born with a
 					gift. An athlete can run. A painter can paint. A writer has a facility with
 					words. A good writer can also think. Isn't that enough to define a writer by?
-					(P. 304) </p>
+					(p. 304) </p>
 				<p> Cynthia Ozick also says that the biographers of Wharton and Woolf "missed the
 					writer" in their subjects, and this is probably easier to do with women than
 					with men. There is, still, a sort of trained-dog fascination with the idea of
@@ -189,7 +194,8 @@
 				<p> Reading through these interviews, I was struck again and again by the intensity
 					of this passion: the commitment to craft, the informed admiration for the work
 					of other writers from whom they have learned, the insistence on the importance,
-					not of what they themselves have done, but on what has been and can be  done through the art itself. In no other art, except painting, perhaps, is
+					not of what they themselves have done, but on what has been and can be <!--<pb n="8"
+					/>--> done through the art itself. In no other art, except painting, perhaps, is
 					the relationship of creation to creator so complex and personal and thus so
 					potentially damaging to self-esteem: if you fail, you fail alone. The dancer
 					realize someone else's dance, the writer her own. The relationship of any writer
@@ -219,7 +225,7 @@
 					account, too, for the retrospective slant of this volume. But looking back over
 					the territory to see what has been done and, especially, said before, is, in the
 					case of writing, part of the territory. </p>
-				
+				<!--<pb n="9"/>-->
 				<p> To write is a solitary and singular act; to do it superbly, as all of these
 					writers have done, is a blessing. Despite everything that gets said about the
 					suffering and panic and horror of being a writer, the final impression left by
@@ -228,10 +234,10 @@
 					group: </p>
 				<p> I take seriously Flaubert's statement must love one another in our art as the
 					mystics love another in God. By honoring one another's creation we honor
-					something that deeply connected us all, and beyond us. (Pp. 383-384) </p>
+					something that deeply connected us all, and beyond us. (pp. 383-384) </p>
 				<p> And from Dorothy Parker, one of the oldest: </p>
 				<p> I want so much to write well, though I know I don't . . . But during and at the
-					end of my life, I will adore those who have. (P. 119) </p>
+					end of my life, I will adore those who have. (p. 119) </p>
 				<byline> MARGARET ATWOOD, 1988 </byline>
 			</div>
 		</body>
