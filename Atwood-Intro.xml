@@ -4455,7 +4455,7 @@
 					enrage those whose political priorities cause them to view writing as a  tool, a means towards an end, rather than as a Muse who will desert
 					you if you break trust. In the interview which begins this collection. <persName key="Parker, Dorothy, 1893-1967." ref="http://viaf.org/viaf/7395211">Dorothy
 					Parker</persName> articles the dilemma: </p>
-				<q> I'm a feminist, and God knows I'm loyal to my sex, and you must remember that
+				<q xml:id="par01"> I'm a feminist, and God knows I'm loyal to my sex, and you must remember that
 					from my very early days, when this city was scarcely safe from buffaloes, I was
 					in the struggle for equal rights for women. But when we paraded through the
 					catcalls of men and when we chained ourselves to lamp posts to try to get out
@@ -4469,20 +4469,20 @@
 				<p> <persName key="Woolf, Virginia, 1882-1941." ref="http://viaf.org/viaf/39385478" ana="webannotation:http://temp.lincsproject.ca/wbTrCj1fuu3">Virginia Woolf</persName> may have been right about the androgynous nature of the artist,
 					but she was right also about the differences in social situation these
 					androgynous artists are certain to encounter. We may agree with <persName key="Gordimer, Nadine, 1923-2014." ref="http://viaf.org/viaf/86692340" ana="webannotation:http://temp.lincsproject.ca/hi8IFJVPYyO">Nadine Gordimer</persName>
-					when she says, "By and large, I don't think it matters a damn what sex a writer
-					is, so long as the work is that of a real writer" (p. 260), if what she means is
+					when she says, <q xml:id="gor01">"By and large, I don't think it matters a damn what sex a writer
+					is, so long as the work is that of a real writer"</q> (p. 260), if what she means is
 					that it shouldn't matter, in any true assesment of talent of accomplishment, but
 					unfortunately it often has mattered, to other people. When <persName key="Oates, Joyce Carol, 1938-...." ref="http://viaf.org/viaf/108187427" ana="webannotation:http://temp.lincsproject.ca/G32DVhdQRD2">Joyce Carol Oates</persName> is
 					asked the "woman" question. phrased in her case as "What are the advantages of
 					being a woman writer?", she makes a virtue of necessity: </p>
-				<q> Advantages! Too many to enumerate, probably. Since, being a woman. I can't be
+				<q xml:id="oat01"> Advantages! Too many to enumerate, probably. Since, being a woman. I can't be
 					taken altogether seriously by the sort of male critics who rank writers 1, 2. 3
                     in the public press. I am free, I suppose, to do as I like. (p. 382) </q>
                 
                 <p> <persName key="Didion, Joan, 1934-2021." ref="http://viaf.org/viaf/100261335" ana="webannotation:http://temp.lincsproject.ca/N0oSECp1wLj">Joan Didion</persName> is asked the same question in its negative form— "disadvantages"
 					instead of "advantages"—and also focuses on social differences, social
 					acceptance and role: </p>
-				<q> When I was starting to write—in the late fifties, early sixties—there was a kind
+				<q xml:id="did01"> When I was starting to write—in the late fifties, early sixties—there was a kind
 					of social tradition in which male novelists could operate. Hard drinkers, bad
 					livers. Wives, wars, big fish, Africa, Paris, no second acts. A man who wrote
 					novels had a role in the world, and he could play that role and do whatever he
@@ -4594,12 +4594,12 @@
 					these remarkable voices is one of thankfulness, of humility in the face of what
 					has been given. From <persName key="Oates, Joyce Carol, 1938-...." ref="http://viaf.org/viaf/108187427" ana="webannotation:http://temp.lincsproject.ca/WcFQma5oi2j">Joyce Carol Oates</persName>, one of the youngest writers in this
 					group: </p>
-				<q> I take seriously <persName key="Flaubert, Gustave, 1821-1880." ref="http://viaf.org/viaf/9846192">Flaubert</persName>'s statement must love one another in our art as the
+				<q xml:id="oat02"> I take seriously <persName key="Flaubert, Gustave, 1821-1880." ref="http://viaf.org/viaf/9846192">Flaubert</persName>'s statement must love one another in our art as the
 					mystics love another in God. By honoring one another's creation we honor
 					something that deeply connected us all, and beyond us. (pp. 383-384) </q>
 				<p> And from <persName key="Parker, Dorothy, 1893-1967." ref="http://viaf.org/viaf/7395211" ana="webannotation:http://temp.lincsproject.ca/wzU1Y7qaSLD">Dorothy Parker</persName>, one of the oldest: </p>
-				<p> I want so much to write well, though I know I don't . . . But during and at the
-					end of my life, I will adore those who have. (p. 119) </p>
+				<q xml:id="par02"> I want so much to write well, though I know I don't . . . But during and at the
+					end of my life, I will adore those who have. (p. 119) </q>
 				<byline> <persName key="Atwood, Margaret, 1939-...." ref="http://viaf.org/viaf/109322990" ana="webannotation:http://temp.lincsproject.ca/FqTZfWqhkKZ">MARGARET ATWOOD</persName>, 1988 </byline>
 			</div>
 		</body>
