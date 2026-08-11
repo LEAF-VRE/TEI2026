@@ -25,7 +25,7 @@
 			<div type="index">
 				<list>
 					<item>
-						<ref target="#par01 #par02 #gor01 #oat01 #oat02 #did01 #por01 #por02 #mcc01 #mcc02 #ozi01 #pou01">Interviewees</ref>
+						<ref target="#par01 #par02 #gor01 #oat01 #oat02 #did01 #por01 #por02 #mcc01 #mcc02 #ozi01">Interviewees</ref>
 						<list>
 							<head>Interviewees</head>
 							<item><ref target="#par01 #par02">Dorothy Parker</ref></item>
@@ -35,7 +35,6 @@
 							<item><ref target="#por01 #por02">Katherine Anne Porter</ref></item>
 							<item><ref target="#mcc01 #mcc02">Mary McCarthy</ref></item>
 							<item><ref target="#ozi01">Cynthia Ozick</ref></item>
-							<item><ref target="#pou01">Ezra Pound</ref></item>
 						</list>
 					</item>
 				</list>
