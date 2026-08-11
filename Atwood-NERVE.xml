@@ -75,7 +75,7 @@
 					came the question, "How do you feel about being on a panel of women?" We all
 					prevaricated. Some of us protested that we had been on lots of panels that
 					included men; others said that most panels were male, with a woman dotted here
-					and there for decorative effect, like parsley. Jan Morris said that she was in
+					and there for decorative effect, like parsley. <persName key="Morris, Jan, 1926-2020." ref="http://viaf.org/viaf/100161330" ana="webannotation:http://temp.lincsproject.ca/fI3qsptYz7n">Jan Morris</persName> said that she was in
 					the process of transcending gender and was aiming at becoming a horse, to which
 					Nayantara Sahgal replied that she hoped it was an English horse, since in some
 					other, poorer countries, horses were not treated very well. Which underlined,
@@ -771,6 +771,95 @@
         "type": "crm:E21_Person",
         "label": "McCarthy, Mary, 1912-1989.",
         "description": "McCarthy, Mary"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/fI3qsptYz7n">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/fI3qsptYz7n",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-08-11T15:26:32.190Z",
+    "creator": {
+        "id": "https://github.com/djakacki",
+        "type": "crm:E21_Person",
+        "name": "Diane Jakacki"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/NudC37ruLYf",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/djakacki/TEI2026_dkj/main/Atwood-NERVE.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/djakacki/TEI2026_dkj/main/Atwood-NERVE.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Introduction: Women Writers at Work: The Paris Review Interviews"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/NudC37ruLYf/selector/textPosition/ZwNwhG88253",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 3165,
+                "end": 3175,
+                "refinedBy": {
+                    "id": "/target/NudC37ruLYf/selector/textQuote/Fh33FyUqpCm",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Jan Morris",
+                    "prefix": "",
+                    "suffix": "said that she was in\n\t\t\t\t\tthe process of transcending gender and was aiming at becoming a horse, to which\n\t\t\t\t\tNayantara Sahgal replied that she hoped it was an English horse, since in some\n\t\t\t\t\tother, poorer countries, horses were not treated very well"
+                }
+            },
+            {
+                "id": "/target/NudC37ruLYf/selector/css/TaH5gxtvxhH",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/fI3qsptYz7n]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/100161330",
+        "type": "crm:E21_Person",
+        "label": "Morris, Jan, 1926-2020.",
+        "description": "Morris, Jan, 1926-"
     },
     "P2_has_type": [
         "oa:identifying"
