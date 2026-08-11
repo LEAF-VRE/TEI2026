@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="https://purl.oclc.org/dsdl/schematron"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/23-refine-leaf-css/CSS/leaf.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="https://purl.oclc.org/dsdl/schematron"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/23-refine-leaf-css/CSS/leaf.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -43,9 +40,9 @@
 				<p> This new volume of the Paris Review’s highly praised and praiseworthy series of
 					interviews with writers is a departure from the norm. Previous collections have
 					mixed the genders; this one is unisexual. That the editors have chosen to bring
-					together, within the same covers, fifteen writers as diverse as Dorothy Parker
-					and Nadine Gordimer, Marianne Moore and Rebecca West, Isak Dinesen and Lillian
-					Hellman, Mary McCarthy and Katherine Anne Porter, over what, in some cases,
+					together, within the same covers, fifteen writers as diverse as <persName key="Parker, Dorothy, 1893-1967." ref="http://viaf.org/viaf/7395211" ana="webannotation:http://temp.lincsproject.ca/X9lfYjxp9Tn">Dorothy Parker</persName>
+					and <persName key="Gordimer, Nadine, 1923-2014." ref="http://viaf.org/viaf/86692340" ana="webannotation:http://temp.lincsproject.ca/hBNHy4NfjqD">Nadine Gordimer</persName>, <persName key="Moore, Marianne, 1887-1972." ref="http://viaf.org/viaf/61562401" ana="webannotation:http://temp.lincsproject.ca/2o50jQpcA4d">Marianne Moore</persName> and Rebecca West, Isak Dinesen and Lillian
+					Hellman, <persName key="McCarthy, Mary, 1912-1989." ref="http://viaf.org/viaf/105465037" ana="webannotation:http://temp.lincsproject.ca/STOsurUziNl">Mary McCarthy</persName> and Katherine Anne Porter, over what, in some cases,
 					would doubtless be their dead bodies, merely because they share a double-X
 					chromosome, is not due to a sudden mental aberration. Rather it has been the
 					result of readers' requests. Why not a gathering of women writers? the editors
@@ -54,7 +51,7 @@
 					because they are different from men, and the writing they do is different as
 					well and cannot be read with the same eyeglasses as those used for the reading
 					of male writers. Nor can writing by women be read in the same way by men as it
-					can by women, and vice versa. For many women, Heathcliff is a romantic hero; for
+					can by women, and vice versa. For many women, <persName key="Heathcliff" ref="http://www.wikidata.org/entity/Q2499865" ana="webannotation:http://temp.lincsproject.ca/ziwluebdtmj">Heathcliff</persName> is a romantic hero; for
 					many men, he is a posturing oaf they'd like to punch in the nose. For many men,
 					The Ginger Man's Sebastian Dangerfield is an energy-packed rebel; for many
 					women, he is an immature and tiresome wife-beater. Paradise Lost reads
@@ -74,13 +71,13 @@
 					alternative to language is silence.) </p>
 				<p> I was recently on a panel—that polygonal form of discourse so beloved of the
 					democratic twentieth century—consisting entirely of women, including Jan Morris,
-					who used to be James Morris, and Nayantara Sahgal of India. From the audience
+					who used to be James Morris, and <persName key="Sahgal, Nayantara, 1927-...." ref="http://viaf.org/viaf/113514914" ana="webannotation:http://temp.lincsproject.ca/CQa3Czi8Y9c">Nayantara Sahgal</persName> of <placeName key="India" ref="http://www.wikidata.org/entity/Q668" ana="webannotation:http://temp.lincsproject.ca/JNnVoic7jjQ">India</placeName>. From the audience
 					came the question, "How do you feel about being on a panel of women?" We all
 					prevaricated. Some of us protested that we had been on lots of panels that
 					included men; others said that most panels were male, with a woman dotted here
-					and there for decorative effect, like parsley. Jan Morris said that she was in
+					and there for decorative effect, like parsley. <persName key="Morris, Jan, 1926-2020." ref="http://viaf.org/viaf/100161330" ana="webannotation:http://temp.lincsproject.ca/fI3qsptYz7n">Jan Morris</persName> said that she was in
 					the process of transcending gender and was aiming at becoming a horse, to which
-					Nayantara Sahgal replied that she hoped it was an English horse, since in some
+					<persName key="Sahgal, Nayantara, 1927-...." ref="http://viaf.org/viaf/113514914" ana="webannotation:http://temp.lincsproject.ca/PhNOHqkBIi6">Nayantara Sahgal</persName> replied that she hoped it was an English horse, since in some
 					other, poorer countries, horses were not treated very well. Which underlined,
 					for all of us, that there are categories other than male and female worth
 					considering. </p>
@@ -103,7 +100,7 @@
 					male writer, or be expected to support another writer simply because he happens
 					to be a man. Such things are asked of women writers all the time, and it makes
 					them jumpy. </p>
-				<p> Virginia Woolf may have been right about the androgynous nature of the artist,
+				<p> <persName key="Woolf, Virginia, 1882-1941." ref="http://viaf.org/viaf/39385478" ana="webannotation:http://temp.lincsproject.ca/lhnjCjmaFCp">Virginia Woolf</persName> may have been right about the androgynous nature of the artist,
 					but she was right also about the differences in social situation these
 					androgynous artists are certain to encounter. We may agree with Nadine Gordimer
 					when she says, "By and large, I don't think it matters a damn what sex a writer
@@ -163,14 +160,14 @@
 					"woman writer" should not be made? </p>
 				<p> MCCARTHY: Some women writers make it. I mean, there's a certain kind of woman
 					writer who's a capital W, capital W. Virginia Woolf certainly was one, and
-					Katherine Mansfield was one, and Elizabeth Bowen is one. Katherine Anne Porter?
+					Katherine Mansfield was one, and <persName key="Bowen, Elizabeth, 1899-1973." ref="http://viaf.org/viaf/19674925" ana="webannotation:http://temp.lincsproject.ca/juUbuXiyeD6">Elizabeth Bowen</persName> is one. Katherine Anne Porter?
 					Don't think she really is—I mean, her writing is certainly very feminine, but I
 					would say that there wasn't this “WW” business in Katherine Anne Porter. Who
 					else? There's Eudora Welty, who's certainly not a "Woman Winter," though she's
 					become one lately. </p>
 				<p> INTERVIEWER: What is it that happens to make this change? </p>
 				<p> MCCARTHY: I think they become interested in décor. You <!--<pb n="7"/>--> notice the
-					change in Elizabeth Bowen. Her early work is much more masculine. Her later work
+					change in <persName key="Bowen, Elizabeth, 1899-1973." ref="http://viaf.org/viaf/19674925" ana="webannotation:http://temp.lincsproject.ca/i5FtN1aIj5A">Elizabeth Bowen</persName>. Her early work is much more masculine. Her later work
 					has much more drapery in it . . . I was going to write a piece at some point
 					about this called "Sense and Sensibility," dividing women writers into these
 					two. I am for the ones who represent sense ... (pp. 189-190) </p>
@@ -242,4 +239,1086 @@
 			</div>
 		</body>
 	</text>
+	<standOff type="annotation">
+		
+<xenoData>
+			
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/X9lfYjxp9Tn">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/X9lfYjxp9Tn",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-08-11T15:18:57.062Z",
+    "creator": {
+        "id": "https://github.com/djakacki",
+        "type": "crm:E21_Person",
+        "name": "Diane Jakacki"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/9NlZ6IzMTc0",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/djakacki/TEI2026_dkj/main/Atwood-NERVE.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/djakacki/TEI2026_dkj/main/Atwood-NERVE.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Introduction: Women Writers at Work: The Paris Review Interviews"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/9NlZ6IzMTc0/selector/textPosition/ZnRnjEvPL9u",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 366,
+                "end": 380,
+                "refinedBy": {
+                    "id": "/target/9NlZ6IzMTc0/selector/textQuote/OTWvvncyjvT",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Dorothy Parker",
+                    "prefix": " That the editors have chosen to bring\n\t\t\t\t\ttogether, within the same covers, fifteen writers as diverse as",
+                    "suffix": "\t\t\t\t\tand Nadine Gordimer, Marianne Moore and Rebecca West, Isak Dinesen and Lillian\n\t\t\t\t\tHellman, Mary McCarthy and Katherine Anne Porter, over what, in some cases,\n\t\t\t\t\twould doubtless be their dead bodies, merely because they share a double-X\n\t\t\t\t\tchromosome, is not due to a sudden mental aberration"
+                }
+            },
+            {
+                "id": "/target/9NlZ6IzMTc0/selector/css/Rl7o7whjAIH",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/X9lfYjxp9Tn]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/7395211",
+        "type": "crm:E21_Person",
+        "label": "Parker, Dorothy, 1893-1967.",
+        "description": "Parker, Dorothy"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/hBNHy4NfjqD">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/hBNHy4NfjqD",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-08-11T15:19:01.504Z",
+    "creator": {
+        "id": "https://github.com/djakacki",
+        "type": "crm:E21_Person",
+        "name": "Diane Jakacki"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/zwY0W1LiXWM",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/djakacki/TEI2026_dkj/main/Atwood-NERVE.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/djakacki/TEI2026_dkj/main/Atwood-NERVE.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Introduction: Women Writers at Work: The Paris Review Interviews"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/zwY0W1LiXWM/selector/textPosition/96zZ4Zm3UMI",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 390,
+                "end": 405,
+                "refinedBy": {
+                    "id": "/target/zwY0W1LiXWM/selector/textQuote/KZ8l6LUV3aD",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Nadine Gordimer",
+                    "prefix": " That the editors have chosen to bring\n\t\t\t\t\ttogether, within the same covers, fifteen writers as diverse as Dorothy Parker\n\t\t\t\t\tand",
+                    "suffix": " Marianne Moore and Rebecca West, Isak Dinesen and Lillian\n\t\t\t\t\tHellman, Mary McCarthy and Katherine Anne Porter, over what, in some cases,\n\t\t\t\t\twould doubtless be their dead bodies, merely because they share a double-X\n\t\t\t\t\tchromosome, is not due to a sudden mental aberration"
+                }
+            },
+            {
+                "id": "/target/zwY0W1LiXWM/selector/css/ObN1NerAPmL",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/hBNHy4NfjqD]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/86692340",
+        "type": "crm:E21_Person",
+        "label": "Gordimer, Nadine, 1923-2014.",
+        "description": "Gordimer, Nadine"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/2o50jQpcA4d">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/2o50jQpcA4d",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-08-11T15:20:50.183Z",
+    "creator": {
+        "id": "https://github.com/djakacki",
+        "type": "crm:E21_Person",
+        "name": "Diane Jakacki"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/40lU5RTD82Z",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/djakacki/TEI2026_dkj/main/Atwood-NERVE.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/djakacki/TEI2026_dkj/main/Atwood-NERVE.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Introduction: Women Writers at Work: The Paris Review Interviews"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/40lU5RTD82Z/selector/textPosition/uellfe5d0Cz",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 407,
+                "end": 421,
+                "refinedBy": {
+                    "id": "/target/40lU5RTD82Z/selector/textQuote/QqL9ZovTa1L",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Marianne Moore",
+                    "prefix": " That the editors have chosen to bring\n\t\t\t\t\ttogether, within the same covers, fifteen writers as diverse as Dorothy Parker\n\t\t\t\t\tand Nadine Gordimer,",
+                    "suffix": "and Rebecca West, Isak Dinesen and Lillian\n\t\t\t\t\tHellman, Mary McCarthy and Katherine Anne Porter, over what, in some cases,\n\t\t\t\t\twould doubtless be their dead bodies, merely because they share a double-X\n\t\t\t\t\tchromosome, is not due to a sudden mental aberration"
+                }
+            },
+            {
+                "id": "/target/40lU5RTD82Z/selector/css/CMGIO0vHFkA",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/2o50jQpcA4d]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/61562401",
+        "type": "crm:E21_Person",
+        "label": "Moore, Marianne, 1887-1972.",
+        "description": "Moore, Marianne, 1887-1972, poétesse"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/JNnVoic7jjQ">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/JNnVoic7jjQ",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-08-11T15:19:31.738Z",
+    "creator": {
+        "id": "https://github.com/djakacki",
+        "type": "crm:E21_Person",
+        "name": "Diane Jakacki"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/ki6u1qxIuAQ",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/djakacki/TEI2026_dkj/main/Atwood-NERVE.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/djakacki/TEI2026_dkj/main/Atwood-NERVE.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Introduction: Women Writers at Work: The Paris Review Interviews"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/ki6u1qxIuAQ/selector/textPosition/H2bjEYCdXxS",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 2842,
+                "end": 2847,
+                "refinedBy": {
+                    "id": "/target/ki6u1qxIuAQ/selector/textQuote/4yCrNB7WLk4",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "India",
+                    "prefix": ") \n\t\t\t\t I was recently on a panel—that polygonal form of discourse so beloved of the\n\t\t\t\t\tdemocratic twentieth century—consisting entirely of women, including Jan Morris,\n\t\t\t\t\twho used to be James Morris, and Nayantara Sahgal of",
+                    "suffix": " From the audience\n\t\t\t\t\tcame the question, \"How do you feel about being on a panel of women?\" We all\n\t\t\t\t\tprevaricated"
+                }
+            },
+            {
+                "id": "/target/ki6u1qxIuAQ/selector/css/Mn1Mep1nMkT",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/JNnVoic7jjQ]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://www.wikidata.org/entity/Q668",
+        "type": "crm:E53_Place",
+        "label": "India",
+        "description": "country in South Asia"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/lhnjCjmaFCp">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/lhnjCjmaFCp",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-08-11T15:19:43.229Z",
+    "creator": {
+        "id": "https://github.com/djakacki",
+        "type": "crm:E21_Person",
+        "name": "Diane Jakacki"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/5QmNMtr41UW",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/djakacki/TEI2026_dkj/main/Atwood-NERVE.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/djakacki/TEI2026_dkj/main/Atwood-NERVE.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Introduction: Women Writers at Work: The Paris Review Interviews"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/5QmNMtr41UW/selector/textPosition/01cMa5OqZUR",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 5004,
+                "end": 5018,
+                "refinedBy": {
+                    "id": "/target/5QmNMtr41UW/selector/textQuote/yg1i4jOtfzj",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Virginia Woolf",
+                    "prefix": " \n\t\t\t\t",
+                    "suffix": "may have been right about the androgynous nature of the artist,\n\t\t\t\t\tbut she was right also about the differences in social situation these\n\t\t\t\t\tandrogynous artists are certain to encounter"
+                }
+            },
+            {
+                "id": "/target/5QmNMtr41UW/selector/css/uxFURp52O2K",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/lhnjCjmaFCp]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/39385478",
+        "type": "crm:E21_Person",
+        "label": "Woolf, Virginia, 1882-1941.",
+        "description": "Woolf, Virginia"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/STOsurUziNl">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/STOsurUziNl",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-08-11T15:25:06.882Z",
+    "creator": {
+        "id": "https://github.com/djakacki",
+        "type": "crm:E21_Person",
+        "name": "Diane Jakacki"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/DftW3GKPrBk",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/djakacki/TEI2026_dkj/main/Atwood-NERVE.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/djakacki/TEI2026_dkj/main/Atwood-NERVE.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Introduction: Women Writers at Work: The Paris Review Interviews"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/DftW3GKPrBk/selector/textPosition/eetRTXj5u53",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 479,
+                "end": 492,
+                "refinedBy": {
+                    "id": "/target/DftW3GKPrBk/selector/textQuote/xJztnAOKWfn",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Mary McCarthy",
+                    "prefix": " That the editors have chosen to bring\n\t\t\t\t\ttogether, within the same covers, fifteen writers as diverse as Dorothy Parker\n\t\t\t\t\tand Nadine Gordimer, Marianne Moore and Rebecca West, Isak Dinesen and Lillian\n\t\t\t\t\tHellman,",
+                    "suffix": "and Katherine Anne Porter, over what, in some cases,\n\t\t\t\t\twould doubtless be their dead bodies, merely because they share a double-X\n\t\t\t\t\tchromosome, is not due to a sudden mental aberration"
+                }
+            },
+            {
+                "id": "/target/DftW3GKPrBk/selector/css/T5y9xSHFsjS",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/STOsurUziNl]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/105465037",
+        "type": "crm:E21_Person",
+        "label": "McCarthy, Mary, 1912-1989.",
+        "description": "McCarthy, Mary"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/ziwluebdtmj">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/ziwluebdtmj",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-08-11T15:32:53.309Z",
+    "creator": {
+        "id": "https://github.com/djakacki",
+        "type": "crm:E21_Person",
+        "name": "Diane Jakacki"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/PvYNw96113T",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/djakacki/TEI2026_dkj/main/Atwood-NERVE.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/djakacki/TEI2026_dkj/main/Atwood-NERVE.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Introduction: Women Writers at Work: The Paris Review Interviews"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/PvYNw96113T/selector/textPosition/ZvNG9OEdsKa",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 1247,
+                "end": 1257,
+                "refinedBy": {
+                    "id": "/target/PvYNw96113T/selector/textQuote/sMO7p89WQzN",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Heathcliff",
+                    "prefix": " For many women,",
+                    "suffix": "is a romantic hero; for\n\t\t\t\t\tmany men, he is a posturing oaf they'd like to punch in the nose"
+                }
+            },
+            {
+                "id": "/target/PvYNw96113T/selector/css/JevEOUFBEEZ",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/ziwluebdtmj]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://www.wikidata.org/entity/Q2499865",
+        "type": "crm:E21_Person",
+        "label": "Heathcliff",
+        "description": "fictional character in the novel Wuthering Heights"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/fI3qsptYz7n">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/fI3qsptYz7n",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-08-11T15:26:32.190Z",
+    "creator": {
+        "id": "https://github.com/djakacki",
+        "type": "crm:E21_Person",
+        "name": "Diane Jakacki"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/NudC37ruLYf",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/djakacki/TEI2026_dkj/main/Atwood-NERVE.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/djakacki/TEI2026_dkj/main/Atwood-NERVE.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Introduction: Women Writers at Work: The Paris Review Interviews"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/NudC37ruLYf/selector/textPosition/ZwNwhG88253",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 3165,
+                "end": 3175,
+                "refinedBy": {
+                    "id": "/target/NudC37ruLYf/selector/textQuote/Fh33FyUqpCm",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Jan Morris",
+                    "prefix": "",
+                    "suffix": "said that she was in\n\t\t\t\t\tthe process of transcending gender and was aiming at becoming a horse, to which\n\t\t\t\t\tNayantara Sahgal replied that she hoped it was an English horse, since in some\n\t\t\t\t\tother, poorer countries, horses were not treated very well"
+                }
+            },
+            {
+                "id": "/target/NudC37ruLYf/selector/css/TaH5gxtvxhH",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/fI3qsptYz7n]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/100161330",
+        "type": "crm:E21_Person",
+        "label": "Morris, Jan, 1926-2020.",
+        "description": "Morris, Jan, 1926-"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/CQa3Czi8Y9c">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/CQa3Czi8Y9c",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-08-11T15:26:50.448Z",
+    "creator": {
+        "id": "https://github.com/djakacki",
+        "type": "crm:E21_Person",
+        "name": "Diane Jakacki"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/ZFTEQwRzswU",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/djakacki/TEI2026_dkj/main/Atwood-NERVE.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/djakacki/TEI2026_dkj/main/Atwood-NERVE.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Introduction: Women Writers at Work: The Paris Review Interviews"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/ZFTEQwRzswU/selector/textPosition/JqjCsG4AiWZ",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 2822,
+                "end": 2838,
+                "refinedBy": {
+                    "id": "/target/ZFTEQwRzswU/selector/textQuote/oOXpKBknYpx",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Nayantara Sahgal",
+                    "prefix": ") \n\t\t\t\t I was recently on a panel—that polygonal form of discourse so beloved of the\n\t\t\t\t\tdemocratic twentieth century—consisting entirely of women, including Jan Morris,\n\t\t\t\t\twho used to be James Morris, and",
+                    "suffix": "of India"
+                }
+            },
+            {
+                "id": "/target/ZFTEQwRzswU/selector/css/T87tDCEMArV",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/CQa3Czi8Y9c]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/113514914",
+        "type": "crm:E21_Person",
+        "label": "Sahgal, Nayantara, 1927-....",
+        "description": "Sahgal, Nayantara"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/PhNOHqkBIi6">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/PhNOHqkBIi6",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-08-11T15:26:50.493Z",
+    "creator": {
+        "id": "https://github.com/djakacki",
+        "type": "crm:E21_Person",
+        "name": "Diane Jakacki"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/rUW7FuKH4gv",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/djakacki/TEI2026_dkj/main/Atwood-NERVE.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/djakacki/TEI2026_dkj/main/Atwood-NERVE.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Introduction: Women Writers at Work: The Paris Review Interviews"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/rUW7FuKH4gv/selector/textPosition/RtotlvFD64Q",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 3287,
+                "end": 3303,
+                "refinedBy": {
+                    "id": "/target/rUW7FuKH4gv/selector/textQuote/ij0354zdLKG",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Nayantara Sahgal",
+                    "prefix": " Jan Morris said that she was in\n\t\t\t\t\tthe process of transcending gender and was aiming at becoming a horse, to which\n\t\t\t\t",
+                    "suffix": "replied that she hoped it was an English horse, since in some\n\t\t\t\t\tother, poorer countries, horses were not treated very well"
+                }
+            },
+            {
+                "id": "/target/rUW7FuKH4gv/selector/css/tutmwJDU7If",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/PhNOHqkBIi6]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/113514914",
+        "type": "crm:E21_Person",
+        "label": "Sahgal, Nayantara, 1927-....",
+        "description": "Sahgal, Nayantara"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/juUbuXiyeD6">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/juUbuXiyeD6",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-08-11T15:27:21.179Z",
+    "creator": {
+        "id": "https://github.com/djakacki",
+        "type": "crm:E21_Person",
+        "name": "Diane Jakacki"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/UsUNh32uSlI",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/djakacki/TEI2026_dkj/main/Atwood-NERVE.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/djakacki/TEI2026_dkj/main/Atwood-NERVE.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Introduction: Women Writers at Work: The Paris Review Interviews"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/UsUNh32uSlI/selector/textPosition/E4shl0I7mcx",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 9694,
+                "end": 9709,
+                "refinedBy": {
+                    "id": "/target/UsUNh32uSlI/selector/textQuote/SCOVszkAUT0",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Elizabeth Bowen",
+                    "prefix": " Virginia Woolf certainly was one, and\n\t\t\t\t\tKatherine Mansfield was one, and",
+                    "suffix": "is one"
+                }
+            },
+            {
+                "id": "/target/UsUNh32uSlI/selector/css/iqWDLc9TGnJ",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/juUbuXiyeD6]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/19674925",
+        "type": "crm:E21_Person",
+        "label": "Bowen, Elizabeth, 1899-1973.",
+        "description": "Bowen, Elizabeth"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/i5FtN1aIj5A">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/i5FtN1aIj5A",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-08-11T15:27:21.180Z",
+    "creator": {
+        "id": "https://github.com/djakacki",
+        "type": "crm:E21_Person",
+        "name": "Diane Jakacki"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/eWrq9FSDBMi",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/djakacki/TEI2026_dkj/main/Atwood-NERVE.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/djakacki/TEI2026_dkj/main/Atwood-NERVE.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Introduction: Women Writers at Work: The Paris Review Interviews"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/eWrq9FSDBMi/selector/textPosition/7s26ftgyrAK",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 10175,
+                "end": 10190,
+                "refinedBy": {
+                    "id": "/target/eWrq9FSDBMi/selector/textQuote/rXALHYyFlr0",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Elizabeth Bowen",
+                    "prefix": " You <!----> notice the\n\t\t\t\t\tchange in",
+                    "suffix": " Her early work is much more masculine"
+                }
+            },
+            {
+                "id": "/target/eWrq9FSDBMi/selector/css/Ac0eyK84Ck3",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/i5FtN1aIj5A]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/19674925",
+        "type": "crm:E21_Person",
+        "label": "Bowen, Elizabeth, 1899-1973.",
+        "description": "Bowen, Elizabeth"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+			
+</rdf:RDF>
+		
+
+		
+</xenoData>
+	
+	</standOff>
+
 </TEI>
