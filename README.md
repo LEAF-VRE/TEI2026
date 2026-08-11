@@ -6,6 +6,8 @@ Workshop materials used for TEI2026 LEAF-Writer Workshop
 * [NERVE](https://nerve.lincsproject.ca/en)
 * [LEAF-Writer Commons](https://leaf-writer.leaf-vre.org/)
 * [Dynamic Table of Contexts](https://dtoc.leaf-vre.org/)
+* * [Regenerations DToC Edition](https://voyant-tools.org/dtoc/?corpus=regenerations&curatorId=regenerations)
+* [Context Explorer Information Page](https://bit.ly/ContextExplorer)
 
 ## Workshop Description:
 In this hands-on workshop participants will learn how to develop data-rich editorial materials using the open-source web-based Linked Editing Academic Framework (LEAF) Commons suite of tools: LEAF-Writer, NERVE, the Dynamic Table of Contexts, and the Context Explorer. 
